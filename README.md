@@ -1,0 +1,1 @@
+Takes a string input and outputs a tally of how many times the substrings from our dictionary appear in the user's string.
